@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/details?id=com.okjunkstore.beta](https://play.google.com/store/apps/details?id=com.okjunkstore.beta)
 
-- 💬 Ask me about **Android Development Java and C**
+- 💬 Ask me about **Android Development Java and Kotlin**
 
 - 📫 How to reach me **arjungupta0817@gmail.com**
 
