@@ -25,8 +25,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arjungupta0817" target="blank"><img align="center" src="https://d2j84o4abgbvdf.cloudfront.net/img/assets/apps/twitter.png" alt="arjungupta0817" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/arjungupta0817" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="arjungupta0817" height="40" width="40" /></a>
-<a href="https://instagram.com/arjungupta0817" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="arjungupta0817" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/arjunguptaonline" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="arjungupta0817" height="40" width="40" /></a>
+<a href="https://instagram.com/arjunguptaonline" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="arjungupta0817" height="40" width="40" /></a>
 <a href="https://www.youtube.com/c/arjungupta0817" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85922120/226210799-0f02e1da-1534-43ad-8d58-d4df3d86042d.png" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/arjungupta0817" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="arjungupta0817" height="40" width="40" /></a>
 </p>
