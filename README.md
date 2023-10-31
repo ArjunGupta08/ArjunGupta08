@@ -52,12 +52,12 @@
  </p>
 
 <h3 align="center">I use <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"<alt="kotlin" width="40" height="40"/> </a> the most</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjungupta08&show_icons=true&locale=en&layout=compact" alt="arjungupta08" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjungupta08&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="arjungupta08" /></p>
 
 
 
 <h3 align="center">Upgrading my stats bit by bit...👷‍♂️</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjungupta08&show_icons=true&locale=en" alt="arjungupta08" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjungupta08&theme=tokyonight&show_icons=true&locale=en" alt="arjungupta08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjungupta08&" alt="arjungupta08" /></p>
 
