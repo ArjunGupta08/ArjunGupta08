@@ -59,7 +59,7 @@
 <h3 align="center">Upgrading my stats bit by bit...👷‍♂️</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjungupta08&theme=tokyonight&show_icons=true&locale=en" alt="arjungupta08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjungupta08&" alt="arjungupta08" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjungupta08&theme=tokyonight" alt="arjungupta08" /></p>
 
 
 <!---
