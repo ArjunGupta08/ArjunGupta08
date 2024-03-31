@@ -53,16 +53,17 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" alt="nodejs" width="40" height="40"/> </a> 
  </p>
 
+ ---
 <h3 align="center">I use <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"<alt="kotlin" width="40" height="40"/> </a> the most</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjungupta08&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="arjungupta08" /></p>
 
-
-
+ ---
 <h3 align="center">Upgrading my stats bit by bit...👷‍♂️</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjungupta08&theme=tokyonight&show_icons=true&locale=en" alt="arjungupta08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjungupta08&theme=tokyonight" alt="arjungupta08" /></p>
-
+<div style="display: flex; justify-content: center;">
+    <img style="height: auto; width: 51%;" src="https://github-readme-streak-stats.herokuapp.com/?user=arjungupta08&theme=tokyonight" alt="GitHub Streak">
+    <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=arjungupta08&theme=tokyonight&show_icons=true&locale=en" alt="GitHub Stats">
+</div>
 
 <!---
 ArjunGupta08/ArjunGupta08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
