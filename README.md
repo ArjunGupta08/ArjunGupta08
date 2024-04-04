@@ -12,18 +12,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjungupta08&label=Profile%20views&color=0e75b6&style=flat" alt="arjungupta08" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arjungupta0817" target="blank"><img src="https://img.shields.io/twitter/follow/arjungupta0817?logo=twitter&style=for-the-badge" alt="arjungupta0817" /></a> </p>
-
-- 🌱 I’m currently learning **DSA And Spring Boot**
-
-- 👨‍💻 My Live projects are available at
-   - ### [OK RECYCLING](https://play.google.com/store/apps/details?id=com.okjunkstore.beta)
-   - ### [R-Own](https://play.google.com/store/apps/details?id=app.retvens.rown)
+- 👨‍💻 My Live projects are available at Play Store.
+   - [***` OK RECYCLING `***](https://play.google.com/store/apps/details?id=com.okjunkstore.beta)
+   - [***` R-Own `***](https://play.google.com/store/apps/details?id=app.retvens.rown)
 
 - 💬 Ask me about **Android Development Java and Kotlin**
 
-- 📫 How to reach me **arjungupta0817@gmail.com**
+- 📫 How to reach me **arjunguptaonline1@gmail.com** 
 
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arjungupta0817" target="blank"><img align="center" src="https://d2j84o4abgbvdf.cloudfront.net/img/assets/apps/twitter.png" alt="arjungupta0817" height="40" width="40" /></a>
@@ -33,8 +30,7 @@
 <a href="https://www.leetcode.com/arjungupta0817" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="arjungupta0817" height="40" width="40" /></a>
 </p>
 
-
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/85922120/226165227-f12eadf4-dff0-4bd9-ad59-118ef84e8e15.png" alt="android" width="40" height="40"/> </a>
