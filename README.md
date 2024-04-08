@@ -2,11 +2,10 @@
 ![IMG-20230319-WA0005](https://user-images.githubusercontent.com/85922120/226210199-2593c9d8-36c7-4785-af00-55b30b31d566.jpg)
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋,+I'm+Arjun+Gupta;Android+Devloper&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
-
-
-
-<h1 align="center">Hi 👋, I'm Arjun Gupta</h1>
 <h3 align="center">➤ Final year Computer Application undergraduate with an interest in Problem solving, Competitive Programming, Software development and Android development. Currently working as a full time android developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
