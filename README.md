@@ -60,6 +60,12 @@
     <img style="height: auto; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=arjungupta08&theme=tokyonight&show_icons=true&locale=en" alt="GitHub Stats">
 </div>
 
+<div style="display: flex; justify-content: center;">
+    <img style="height: auto; width: 51%;" src="https://github-readme-streak-stats.herokuapp.com/?user=arjungupta08&theme=tokyonight" alt="GitHub Streak">
+    <img style="height: auto; width: 48%;" src="https://github-contributor-stats.vercel.app/api?username=arjungupta08&limit=4&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Stats">
+</div>
+
+
 <!---
 ArjunGupta08/ArjunGupta08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
