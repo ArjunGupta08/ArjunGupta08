@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋,+I'm+Arjun+Gupta;Android+Devloper&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-<h3 align="center">➤ Final year Computer Application undergraduate with an interest in Problem solving, Competitive Programming, Software development and Android development. Currently working as a full time android developer.</h3>
+<h3 align="center">➤ Computer Application graduate with an interest in Problem solving, Competitive Programming, Software development and Android development. Currently working as a full time android developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjungupta08&label=Profile%20views&color=0e75b6&style=flat" alt="arjungupta08" /> </p>
